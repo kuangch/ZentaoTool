@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="960px" height="540px" viewBox="0 0 960 540" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>分组 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#0086EA" offset="0%"></stop>
+            <stop stop-color="#004ED1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#00BBF6" offset="0%"></stop>
+            <stop stop-color="#0086EA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#0086EA" offset="0%"></stop>
+            <stop stop-color="#004ED1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="集中管理平台-custom-登陆默认图1" transform="translate(-225.000000, -160.000000)">
+            <g id="分组-5" transform="translate(225.000000, 160.000000)">
+                <rect id="矩形" fill="url(#linearGradient-1)" x="0" y="0" width="960" height="540"></rect>
+                <g id="分组-4" transform="translate(430.000000, 220.000000)">
+                    <circle id="椭圆形" fill="url(#linearGradient-2)" cx="50" cy="50" r="50"></circle>
+                    <polygon id="三角形" fill="url(#linearGradient-3)" transform="translate(55.000000, 50.000000) rotate(-270.000000) translate(-55.000000, -50.000000) " points="55 24 81 76 29 76"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
