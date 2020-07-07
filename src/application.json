@@ -1,7 +1,4 @@
 {
-    "1ip":"10.0.1.21",
-    "1http_request_prefix" : "pro",
-
-    "ip":"10.0.1.150",
-    "http_request_prefix" : "zentao"
+    "ip":"10.0.1.21",
+    "http_request_prefix" : "pro"
 }

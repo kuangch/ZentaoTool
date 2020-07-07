@@ -354,9 +354,6 @@ body .el-table th.gutter{
 .el-table__header-wrapper{
     background-color:rgb(10, 79, 160);
 }
-.el-table__empty-block {
-    background: url(../assets/list_bg.png) 50% 20% no-repeat;
-}
 .el-table__empty-text {
     color: #9ce3ff9e;
     margin-top: 7vw;

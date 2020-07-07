@@ -5,12 +5,12 @@
  * ======================================== */
 
 // vue-model-view 组件
-const ModelView = () => import(/* webpackChunkName: "vue_model_view" */ 'vue-model-view')
+// const ModelView = () => import(/* webpackChunkName: "vue_model_view" */ 'vue-model-view')
 
 // xlsx 模块
 const Xlsx = () => import(/* webpackChunkName: "XLSX" */ 'xlsx')
 
 export {
-    ModelView,
+    // ModelView,
     Xlsx
 }
