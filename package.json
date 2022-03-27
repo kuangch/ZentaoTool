@@ -34,7 +34,7 @@
     "imagemin-svgo": "7.0.0",
     "img-loader": "3.0.1",
     "json-templater": "1.0.4",
-    "minimist": "1.2.0",
+    "minimist": "1.2.6",
     "node-sass": "4.10.0",
     "progress-bar-webpack-plugin": "1.12.1",
     "sass-loader": "7.1.0",
